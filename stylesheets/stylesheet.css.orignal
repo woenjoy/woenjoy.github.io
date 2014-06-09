@@ -269,17 +269,6 @@ Full-Width Styles
   margin: 0 auto;
 }
 
-.boy_img {
-  height: 1100px;
-  background-image: url(../images/boy.jpg);
-  background-repeat: no-repeat;
-  background-position: center center;
-  /* background-attachment: fixed; */
-  text-indent: 20px;
-  background-size: cover;
-  display: block;
-}
-
 #forkme_banner {
   display: block;
   position: absolute;
